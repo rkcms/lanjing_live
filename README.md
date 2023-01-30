@@ -2,9 +2,6 @@
 <h1 align="center">🐋蓝鲸直播源——在开源的海洋里遨游！</h1>
 <h3 align="left">长期维护电视直播接口、TVbox、IPTV、BIUBIU TV、等影视及m3u8播放器通用接口都可以观看</h3>
 
-
-![输入图片说明](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/codes.png)
-<p>(图片不显示 搜索公众号“源享家”，或yuanxiangjia8)</p>
 <p>回复关键词“<b>接口</b>”获取相关内容！</P>
 
 
