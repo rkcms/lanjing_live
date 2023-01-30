@@ -93,10 +93,6 @@ Pluto二次开发版：美化UI、可选专业模式或基础模式、内置浏�
 #### 感谢原作者(吃水不忘挖井人)
 <p>转载复制链接请保留出处：https://github.com/Cyril0563/lanjing_live</p>
 
-#### 给作者来点动力！微信扫一扫加速更新！🙇‍
-<img src="https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/zanshang.jpg" height="350" width="350" />
-
-
 #### 参与贡献
 
 1.  [Cyril0563](https://github.com/Cyril0563)
